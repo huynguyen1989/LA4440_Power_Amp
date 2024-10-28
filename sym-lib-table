@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LA4440")(type "KiCad")(uri "${KIPRJMOD}/Components/LA4440/LA4440.kicad_sym")(options "")(descr ""))
+)
