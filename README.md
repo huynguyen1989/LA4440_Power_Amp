@@ -6,7 +6,8 @@
 - Single Power Supply from 18Vdc to 25Vdc within surge voltage 50Vdc < 0.2s
 
 - Panelized version within Kikit placed at the Panelized folder -> 10 board per A4 size for PCB manufacturing
-
+## KiCAD
+- Version 7.x
 ## Assets
 - Assets folder contain PDFs and Images of the module PCB
 
