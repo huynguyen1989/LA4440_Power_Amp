@@ -10,5 +10,12 @@
 ## Assets
 - Assets folder contain PDFs and Images of the module PCB
 
+## Libraries
+- Components and Libraries come within
+
+### Single Board
+![Single Board](https://github.com/huynguyen1989/LA4440_Power_Amp/blob/4e69ed1e335f4f063846bbdacfe655ee69dcba7e/Assets/1Board.png)
+### 10 Board using Kikit
+![10 Boards](https://github.com/huynguyen1989/LA4440_Power_Amp/blob/4e69ed1e335f4f063846bbdacfe655ee69dcba7e/Assets/10Boards.png)
 # License
 Free to use
